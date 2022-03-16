@@ -1,0 +1,2 @@
+# Lei Municipal nº 3578 de 16 de março de 2022 "Dispõe o Poder Executivo proibir a emissão de ruídos sonoros provenientes de escapamento de veículos motociclísticos e automotores em geral fora das normas estabelecidas nas legislações em vigor e institui o controle de poluição sonora veicular, e dá outras providências".
+A CÂMARA MUNICIPAL DE BARRA DO Piraí, estado do Rio de Janeiro, no uso de suas atribuições legais, aprova e o Representante Legal do Poder Legislativo promulga a seguinte Lei:
