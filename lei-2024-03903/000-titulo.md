@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3903 DE 18 DE DEZEMBRO DE 2024 DISPÕE SOBRE A REVISÃO GERAL ANUAL DA REMUNERAÇÃO DOS SERVIDORES PÚBLICOS MUNICIPAIS E DO SUBSÍDIO DOS AGENTES POLÍTICOS DO MUNICÍPIO DE BARRA DO PIRAÍ/RJ.
+O Prefeito Municipal de Barra do Piraí, Estado do Rio de Janeiro, no uso das atribuições que lhe confere o art. 48, II, da LOM, faço saber que a Câmara Municipal aprova e eu sanciono e promulgo a seguinte Lei:
