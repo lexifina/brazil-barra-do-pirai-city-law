@@ -1,0 +1,3 @@
+# LEI MUNICIPAL Nº 3961 DE 04 DE ABRIL DE 2025.
+EMENTA: ALTERA A REDAÇÃO DA LEI MUNICIPAL Nº 1371 DE 13 DEZEMBRO DE 2007, QUE DISPÕE SOBRE A CONTRATAÇÃO POR PRAZO DETERMINADO, NOS TER-MOS DO ARTIGO 37, INCISO IX DA CONSTITUIÇÃO FEDERAL, NOS DISPOSITIVOS LEGAIS QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Barra do Piraí, Estado do Rio de Janeiro, no uso de suas atribuições legais, aprova e a Representante Legal do Poder Executivo sanciona a seguinte Lei:
