@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N.º 4041 DE 01 DE JULHO DE 2025 EMENTA: ALTERA A DENOMINAÇÃO DA SECRETARIA MUNICIPAL DE CIDADANIA E ORDEM PÚBLICA PARA SECRETARIA MUNICIPAL DE SEGURANÇA, MOBILIDADE URBANA E ORDEM PÚBLICA E DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Barra do Piraí, Estado do Rio de Janeiro, no uso de suas atribuições legais, aprova e a Representante Legal do Poder Executivo sanciona a seguinte Lei:
