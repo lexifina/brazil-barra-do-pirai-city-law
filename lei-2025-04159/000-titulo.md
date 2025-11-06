@@ -1,0 +1,3 @@
+# LEI MUNICIPAL N.º 4159 DE 06 DE NOVEMBRO DE 2025.
+EMENTA: ACRESCENTA O ART. 4º A LEI Nº 2794/2017, QUE "INSTITUI O DIA 31 DE JANEIRO COMO DATA COMEMORATIVA DO ANIVERSÁRIO DO DISTRITO DA CAL-IFÓRNIA, INCLUINDO A DATA NO CALENDÁRIO MUNICIPAL DE FESTIVIDADES DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Barra do Piraí, Estado do Rio de Janeiro, no uso de suas atribuições legais, aprova e a Representante Legal do Poder Executivo sanciona a seguinte Lei:
