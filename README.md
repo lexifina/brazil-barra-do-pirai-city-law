@@ -8,7 +8,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions |
 | --- | --- | ---: |
-| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (12) |
+| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (67) |
 
 **Municipal laws, newest first.** Each law the Câmara's SAPL lists with a PDF that has a text layer of its own, as enacted, credited to itself. Laws are added in parts, working back in time; later amendments by other laws are not worked into earlier laws. Scans and laws that take effect on another day than their publication are left out.
 
