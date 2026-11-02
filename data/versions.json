@@ -1,0 +1,173 @@
+{
+ "country": "BR-RJ-BARRA-DO-PIRAI",
+ "acts": [
+  {
+   "slug": "lei-2026-04423",
+   "short": "Lei 4423/2026",
+   "title": "Lei nº 4.423, de 31 de agosto de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4662",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4662/159_-_pl_n81-2026.pdf",
+     "sha256": "e26d59d544a0b10b8f4d5aea10cdf2778e5ff3d22c481b94bf782848ad4d05fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04401",
+   "short": "Lei 4401/2026",
+   "title": "Lei nº 4.401, de 29 de julho de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4635",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 3,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4635/136_-_pl_n213-2023.pdf",
+     "sha256": "a962f3c5098f2725639f97f9d8f63da314fbbc94c4afe05c1a4a80a3bd26be55"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04374",
+   "short": "Lei 4374/2026",
+   "title": "Lei nº 4.374, de 29 de junho de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4603",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4603/114_-_pl_n145-2026.pdf",
+     "sha256": "18adadb3c2051a1c892316db3deb76a8bc1baa0d0cbd65bc2bd1ec1a817ac497"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04333",
+   "short": "Lei 4333/2026",
+   "title": "Lei nº 4.333, de 15 de maio de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4562",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 9,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4562/087-compactado_-_pl_n100-2026.pdf",
+     "sha256": "cbf1a78c100f9f6e50ed59b790360e678f2e4450f26f9a5cd05394a0d5aaf9a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04332",
+   "short": "Lei 4332/2026",
+   "title": "Lei nº 4.332, de 15 de maio de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4561",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 20,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4561/087-compactado_-_pl_n94-2026.pdf",
+     "sha256": "e3c2761f89da417bae260da39015e0b6e401b44f6831e470e6cce4fb98156468"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04291",
+   "short": "Lei 4291/2026",
+   "title": "Lei nº 4.291, de 26 de março de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4509",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 6,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4509/doe_057_-_data_31-03_-_pl_n173-2025.pdf",
+     "sha256": "724b58052859945f7dba456f6001a0db792cd1c753fac3de256c64e9591c1a0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04289",
+   "short": "Lei 4289/2026",
+   "title": "Lei nº 4.289, de 25 de março de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4505",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 9,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4505/doe_053_-_data_25-03_-_lei_no_4289_de_25_de_marco_de_2026_-_pl_no_10_de_2026.pdf",
+     "sha256": "22dbaf512c100aa77c91acd6abb3807d771cc9bb40efffa0f3efdff5abc0df46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04288",
+   "short": "Lei 4288/2026",
+   "title": "Lei nº 4.288, de 24 de março de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4504",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 6,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4504/doe_053_-_data_25-03_-_lei_no_4288_de_24_de_marco_de_2026_-_pl_no_391_de_2025.pdf",
+     "sha256": "9da21ff7a3a05c738837d1feafbb1b24232cc0c49ec4d8c35398357b5c93b8d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04287",
+   "short": "Lei 4287/2026",
+   "title": "Lei nº 4.287, de 24 de março de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4503",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4503/doe_053_-_data_25-03_-_lei_no_4287_de_24_de_marco_de_2026_-_pl_no_34_de_2026.pdf",
+     "sha256": "477f3ac1e1d9d2c6c1c9e027f8fb9f151b03d396347b42cc12a5c409bddf01b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04286",
+   "short": "Lei 4286/2026",
+   "title": "Lei nº 4.286, de 24 de março de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4502",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 6,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4502/doe_053_-_data_25-03_-_lei_no_4286_de_24_de_marco_de_2026_-_pl_no_3_de_2026.pdf",
+     "sha256": "444e30daa7d931240e8e6147fa62f36d1ba068340f1e57b5a1578801db02a772"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04274",
+   "short": "Lei 4274/2026",
+   "title": "Lei nº 4.274, de 5 de março de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4488",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 7,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4488/doe_040_-_data_05-03_-_pl_n13-2026.pdf",
+     "sha256": "516e0a618d11502bea6732170aa7bf0e3463dc84af460266bc4ecb02a32fcbf9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04273",
+   "short": "Lei 4273/2026",
+   "title": "Lei nº 4.273, de 5 de março de 2026",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4487",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 5,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2026/4487/doe_040_-_data_05-03_-_pl_n7-2026.pdf",
+     "sha256": "8a4c86211368edb74abf09fb10691ec9e80b202d17f7a50fbc05216613bfc57e"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "path": "br-rj-barra-do-pirai",
+  "code": "BR-RJ-BARRA-DO-PIRAI",
+  "name": "Barra do Piraí (city)",
+  "level": "municipality",
+  "parent": "br-rj",
+  "repo": "https://github.com/lexifina/brazil-barra-do-pirai-city-law",
+  "build": "built: the law of Barra do Piraí from the Câmara Municipal's SAPL"
+}
