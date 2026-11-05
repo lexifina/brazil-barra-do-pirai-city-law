@@ -938,6 +938,202 @@
      "sha256": "e3100e62727acc40fd1599efb4d971a42c4c99c3fe12380bbae33dc755f3bf95"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-04056",
+   "short": "Lei 4056/2025",
+   "title": "Lei nº 4.056, de 7 de julho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4198",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 5,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4198/doe_121_-_data_09-07_-_pl_n69-2025.pdf",
+     "sha256": "a1c4b2d6f315b79e938e61a1ab773a3f2b57bbf72af0b89cbcd56b5cba2786a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04054",
+   "short": "Lei 4054/2025",
+   "title": "Lei nº 4.054, de 4 de julho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4197",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 3,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4197/doe_118_-_data_04-07_-_pl_n217-2025.pdf",
+     "sha256": "f4d06e4106f90146ebaaff39349c83910781b6ade9263b2f18a4c3ec233f3913"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04052",
+   "short": "Lei 4052/2025",
+   "title": "Lei nº 4.052, de 2 de julho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4181",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 6,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4181/doe_116_-_data_02-07_-_extra_-_pl_n38-2025.pdf",
+     "sha256": "c356417c5c6d6db4022d11c641e25d48b9c8bcfa0cb0fa48b3079740f0f44b3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04041",
+   "short": "Lei 4041/2025",
+   "title": "Lei nº 4.041, de 1 de julho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4182",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 6,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4182/doe_116_-_data_02-07_-_extra_-_pl_n206-2025.pdf",
+     "sha256": "2f1924f54bab0e58b929cabef0cc45874bf359a7d56ec674b4a5cd04c34a05a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04030",
+   "short": "Lei 4030/2025",
+   "title": "Lei nº 4.030, de 17 de junho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4173",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 6,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4173/doe_111_-_data_24-06_-_pl_n61-2025.pdf",
+     "sha256": "7d43b39307146748a3627022df506e630560bd0b8a00effd71dc76c2c53e94ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04028",
+   "short": "Lei 4028/2025",
+   "title": "Lei nº 4.028, de 16 de junho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4170",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4170/doe_107_-_data_16-06_-_pl_n144-2025.pdf",
+     "sha256": "646bd47ae366466dbed74a4af50a66a2236751aa2a7ecde0ee7a29396cca23ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04026",
+   "short": "Lei 4026/2025",
+   "title": "Lei nº 4.026, de 9 de junho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4167",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4167/doe_103_-_data_10-06_-_pl_n152-2025.pdf",
+     "sha256": "d71d4d503a1c96dee51012aec756b3c641d1fd72942a0b67163bc2b2e1820cf1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04025",
+   "short": "Lei 4025/2025",
+   "title": "Lei nº 4.025, de 9 de junho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4166",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 7,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4166/doe_103_-_data_10-06_-_pl_n81-2025.pdf",
+     "sha256": "7ef2411d582dd1c630c7a4eda3ed791d0eac1939625ec900ee38c56c698f4a2f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04018",
+   "short": "Lei 4018/2025",
+   "title": "Lei nº 4.018, de 3 de junho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4157",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 8,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4157/doe_098_-_data_03-06_-_pl_n56-2025.pdf",
+     "sha256": "32661db2b4ab081531f6bbfda76bf2146faeba52f4c49b09b510b3c740563a55"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04017",
+   "short": "Lei 4017/2025",
+   "title": "Lei nº 4.017, de 3 de junho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4156",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 8,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4156/doe_098_-_data_03-06_-_pl_n52-2025.pdf",
+     "sha256": "f8bec65d1ba77ec8d813b5af28fd44fc5c37c9b7a6a684a232f2d183f7cedd4a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04016",
+   "short": "Lei 4016/2025",
+   "title": "Lei nº 4.016, de 2 de junho de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4158",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 18,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4158/doe_098_-_data_03-06_-_pl_n86-2025.pdf",
+     "sha256": "035294ff3731716aa16080dd205aedff322eb8ee052ad3ef4de77e1b793d10e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04012",
+   "short": "Lei 4012/2025",
+   "title": "Lei nº 4.012, de 22 de maio de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4153",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 6,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4153/doe_091_-_data_23-05_-_pl_n80-2025.pdf",
+     "sha256": "bde4860333ee9edd37abef3af0cf964730082125a8be5a232ffdd463e47ce816"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04011",
+   "short": "Lei 4011/2025",
+   "title": "Lei nº 4.011, de 22 de maio de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4152",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 8,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4152/doe_091_-_data_23-05_-_pl_n68-2025.pdf",
+     "sha256": "e1db15f06a04e88ebfb3380772ffaec2c386c94cf11e40eaaf37a8586f701046"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04008",
+   "short": "Lei 4008/2025",
+   "title": "Lei nº 4.008, de 21 de maio de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4148",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4148/doe_089_-_data_21-05_-_pl_n149-2025.pdf",
+     "sha256": "8e45d8fcc3e6f39008237280985ad63e66f696ecb1dca6c45575d852aa197bac"
+    }
+   ]
   }
  ]
 }
