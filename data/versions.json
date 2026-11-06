@@ -1414,6 +1414,20 @@
      "sha256": "5edbc73d3f09786cbaa7edd790e7c95e5b02e54c48cf5f4eb2bddd96d55f1360"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-03848",
+   "short": "Lei 3848/2024",
+   "title": "Lei nº 3.848, de 14 de março de 2024",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/3932",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 8,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2024/3932/lei_municipal_no3848_de_14_de_marco_de_2024_-_dispoe_sobre_a_criacao_do_ceam_-_com_errata.pdf",
+     "sha256": "39cc7d4008cf9feee868a7f3a208d4e9c246f7b9c424182c518fa6ca0cc81cb3"
+    }
+   ]
   }
  ]
 }
