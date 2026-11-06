@@ -1484,6 +1484,20 @@
      "sha256": "967ded90484b9c303070edc352126d6291cce66e2770d84e408c1e173178f4cf"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03578",
+   "short": "Lei 3578/2022",
+   "title": "Lei nº 3.578, de 16 de março de 2022",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/153",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 8,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2022/153/lei_municipal_no3578_-_proibi_emissao_de_ruidos_sonoros_provenientes_de_veiculos_motociclisticos_e_automotores_e_institui_controle_e_poluicao_sonora_veicular.pdf",
+     "sha256": "14ebd4176d96d624133c63568fc20d7a7aa989679de24ad6f9b9fae7a8ca00a5"
+    }
+   ]
   }
  ]
 }
