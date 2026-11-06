@@ -1344,6 +1344,20 @@
      "sha256": "ad7e75424c3335f84dd6978ae3b17091ff85288f06286a70626603c8049913ac"
     }
    ]
+  },
+  {
+   "slug": "lei-2025-03958",
+   "short": "Lei 3958/2025",
+   "title": "Lei nº 3.958, de 31 de março de 2025",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4073",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2025/4073/doe_058_-_data_31-03_-_pl_n15-2024.pdf",
+     "sha256": "054c7c7fabbb630c57d6cb53e893682b0f684d797ed6216d8f1f274f66117635"
+    }
+   ]
   }
  ]
 }
