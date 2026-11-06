@@ -1428,6 +1428,48 @@
      "sha256": "39cc7d4008cf9feee868a7f3a208d4e9c246f7b9c424182c518fa6ca0cc81cb3"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-03744",
+   "short": "Lei 3744/2023",
+   "title": "Lei nº 3.744, de 29 de junho de 2023",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/124",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 3,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2023/124/lei_municipal_no3744_de_29-06-2023_-_com_errata.pdf",
+     "sha256": "f29a13c2eb8b1c196a94005de956b67262d3b6154719246418364a3b1f88f7de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03723",
+   "short": "Lei 3723/2023",
+   "title": "Lei nº 3.723, de 16 de maio de 2023",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/76",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 5,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2023/76/lei_municipal_no_3723.pdf",
+     "sha256": "3e108e4b3d980cbdf20af5945979996e2c63867bb2b0a45cea77f1a209503c7b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-03722",
+   "short": "Lei 3722/2023",
+   "title": "Lei nº 3.722, de 16 de maio de 2023",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/26",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2023/26/lei_municipal_no_3722.pdf",
+     "sha256": "3629fc2eb68d4d22ea4cc14647ede59fce0b5efaff9ec8170b92e4e102f400c8"
+    }
+   ]
   }
  ]
 }
