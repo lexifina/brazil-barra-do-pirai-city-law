@@ -1358,6 +1358,62 @@
      "sha256": "054c7c7fabbb630c57d6cb53e893682b0f684d797ed6216d8f1f274f66117635"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-03903",
+   "short": "Lei 3903/2024",
+   "title": "Lei nº 3.903, de 18 de dezembro de 2024",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/4002",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 4,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2024/4002/doe_236_-_data_26-12_1.pdf",
+     "sha256": "91cf4281a192a190d95975c2ca47b89bb7ea72a7c0985fd741aa4e904a4ef343"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03866",
+   "short": "Lei 3866/2024",
+   "title": "Lei nº 3.866, de 26 de junho de 2024",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/3996",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 5,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2024/3996/lei_municipal_no_3866_de_26_de_junho_de_2024.pdf",
+     "sha256": "37e3b39fb16a25e32ed5af81edbca400e56fab48c6ecb1958a879996f931b57a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03865",
+   "short": "Lei 3865/2024",
+   "title": "Lei nº 3.865, de 26 de junho de 2024",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/3991",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 8,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2024/3991/lei_municipal_no_3865_de_26_de_junho_de_2024.pdf",
+     "sha256": "2d709df71d71622c1c6e13c1c7ed9b151115033d853ade8f9aee3760523ef027"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03864",
+   "short": "Lei 3864/2024",
+   "title": "Lei nº 3.864, de 26 de junho de 2024",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/3992",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 10,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2024/3992/lei_municipal_no_3864_de_26_de_junho_de_2024.pdf",
+     "sha256": "5edbc73d3f09786cbaa7edd790e7c95e5b02e54c48cf5f4eb2bddd96d55f1360"
+    }
+   ]
   }
  ]
 }
