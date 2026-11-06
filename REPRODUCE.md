@@ -1,6 +1,6 @@
 # How this repository was made (Barra do Piraí)
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This file is written by the build on 2026-11-06, the day the source data was retrieved.
 
 ## Sources
 
@@ -15,6 +15,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Câmara Municipal de Barra do Piraí, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.barradopirai.rj.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Barra do Piraí, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.barradopirai.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Barra do Piraí, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.barradopirai.rj.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de Barra do Piraí, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.barradopirai.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Barra do Piraí, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.barradopirai.rj.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Barra do Piraí, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.barradopirai.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Barra do Piraí, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.barradopirai.rj.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Barra do Piraí, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.barradopirai.rj.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -103,20 +104,35 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2025-04012` | Lei nº 4.012, de 22 de maio de 2025 | 1 | 2025-05-23 to 2025-05-23 |
 | `lei-2025-04011` | Lei nº 4.011, de 22 de maio de 2025 | 1 | 2025-05-23 to 2025-05-23 |
 | `lei-2025-04008` | Lei nº 4.008, de 21 de maio de 2025 | 1 | 2025-05-21 to 2025-05-21 |
+| `lei-2025-04006` | Lei nº 4.006, de 15 de maio de 2025 | 1 | 2025-05-15 to 2025-05-15 |
+| `lei-2025-04005` | Lei nº 4.005, de 15 de maio de 2025 | 1 | 2025-05-15 to 2025-05-15 |
+| `lei-2025-04074` | Lei nº 4.074, de 14 de maio de 2025 | 1 | 2025-07-14 to 2025-07-14 |
+| `lei-2025-04004` | Lei nº 4.004, de 14 de maio de 2025 | 1 | 2025-05-15 to 2025-05-15 |
+| `lei-2025-03985` | Lei nº 3.985, de 13 de maio de 2025 | 1 | 2025-05-13 to 2025-05-13 |
+| `lei-2025-03984` | Lei nº 3.984, de 13 de maio de 2025 | 1 | 2025-05-13 to 2025-05-13 |
+| `lei-2025-03983` | Lei nº 3.983, de 13 de maio de 2025 | 1 | 2025-05-13 to 2025-05-13 |
+| `lei-2025-03982` | Lei nº 3.982, de 13 de maio de 2025 | 1 | 2025-05-13 to 2025-05-13 |
+| `lei-2025-03978` | Lei nº 3.978, de 30 de abril de 2025 | 1 | 2025-04-30 to 2025-04-30 |
+| `lei-2025-03977` | Lei nº 3.977, de 29 de abril de 2025 | 1 | 2025-04-30 to 2025-04-30 |
+| `lei-2025-03976` | Lei nº 3.976, de 29 de abril de 2025 | 1 | 2025-04-30 to 2025-04-30 |
+| `lei-2025-03971` | Lei nº 3.971, de 15 de abril de 2025 | 1 | 2025-04-24 to 2025-04-24 |
+| `lei-2025-03970` | Lei nº 3.970, de 15 de abril de 2025 | 1 | 2025-04-24 to 2025-04-24 |
+| `lei-2025-03961` | Lei nº 3.961, de 4 de abril de 2025 | 1 | 2025-04-04 to 2025-04-04 |
+| `lei-2025-03959` | Lei nº 3.959, de 31 de março de 2025 | 1 | 2025-03-31 to 2025-03-31 |
 
-The build made 81 commits:
+The build made 96 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 81 | first version of an act |
+| 96 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 81 laws in the record.
-- 162 tags.
+- 96 laws in the record.
+- 192 tags.
 
 ## Dates
 
@@ -128,7 +144,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2492a4c33f4b837f540c505c69e35b4d30cfb539dda62c9cdc4efdec70eca16c` (397339 bytes).
+- Corpus: sha256 `a925d4ecf5e111ed77891a450bed9a86ea2ced77c05a950b954e6d6a9ff5d2f2` (468312 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -167,6 +183,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -177,6 +196,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
