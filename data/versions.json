@@ -1470,6 +1470,20 @@
      "sha256": "3629fc2eb68d4d22ea4cc14647ede59fce0b5efaff9ec8170b92e4e102f400c8"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-03662",
+   "short": "Lei 3662/2022",
+   "title": "Lei nº 3.662, de 19 de outubro de 2022",
+   "url": "https://sapl.barradopirai.rj.leg.br/norma/235",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 7,
+     "source_url": "https://sapl.barradopirai.rj.leg.br/media/sapl/public/normajuridica/2022/235/lei_municipal_no3662_-_cracha_de_identificacao_de_servidor.pdf",
+     "sha256": "967ded90484b9c303070edc352126d6291cce66e2770d84e408c1e173178f4cf"
+    }
+   ]
   }
  ]
 }
